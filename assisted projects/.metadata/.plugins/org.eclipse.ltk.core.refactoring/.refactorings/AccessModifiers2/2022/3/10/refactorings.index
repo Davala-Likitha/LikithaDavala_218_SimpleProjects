@@ -1,0 +1,6 @@
+1646313408746	Extract local variable 'x'
+1646313510188	Extract local variable 'c'
+1646313524312	Extract local variable 'c2'
+1646313845559	Extract constant 'BOOLEAN'
+1646313856832	Extract method 'extracted'
+1646313866696	Extract method 'extracted'
